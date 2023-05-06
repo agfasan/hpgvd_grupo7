@@ -18,7 +18,7 @@ El archivo main.tf contiene el codigo (IaaC) para crear la arquitectura necesari
 3. Descargar de github el repositorio con el codigo en Terraform para crear la infraesturctura y posicionar se la carpeta infraestructura:
 
    ```
-   git clone https://github.com/<your-username>/terraform-aws-example.git
+   git clone https://github.com/agfasan/hpgvd_grupo7.git
    cd infraestructura
    ```
 
